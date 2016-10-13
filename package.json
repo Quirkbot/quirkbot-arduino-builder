@@ -1,0 +1,10 @@
+{
+  "name": "quirkbot-arduino-builder",
+  "version": "0.0.0",
+  "description": "Arduino builder used by the Quirkbot compiler.",
+  "main": "index.js",
+  "author": "Quirkbot",
+  "scripts": {
+    "postinstall": "node index.js"
+  }
+}
