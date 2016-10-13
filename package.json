@@ -4,6 +4,10 @@
   "description": "Arduino builder used by the Quirkbot compiler.",
   "main": "index.js",
   "author": "Quirkbot",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Quirkbot/quirkbot-arduino-buildergit"
+  },
   "scripts": {
     "postinstall": "node index.js"
   }
