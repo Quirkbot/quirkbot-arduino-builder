@@ -6,7 +6,7 @@
   "author": "Quirkbot",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Quirkbot/quirkbot-arduino-buildergit"
+    "url": "git://github.com/Quirkbot/quirkbot-arduino-builder.git"
   },
   "scripts": {
     "postinstall": "node index.js"
