@@ -1,12 +1,12 @@
 {
   "name": "quirkbot-arduino-builder",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Arduino builder used by the Quirkbot compiler.",
   "main": "index.js",
   "author": "Quirkbot",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Quirkbot/quirkbot-arduino-buildergit"
+    "url": "git://github.com/Quirkbot/quirkbot-arduino-builder.git"
   },
   "scripts": {
     "postinstall": "node index.js"
