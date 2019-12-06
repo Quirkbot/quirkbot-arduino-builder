@@ -1,6 +1,6 @@
 {
   "name": "quirkbot-arduino-builder",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Arduino builder used by the Quirkbot compiler.",
   "main": "index.js",
   "author": "Quirkbot",
